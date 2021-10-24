@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @odalatber
+- 👀 I’m interested in full stack web development
+- 🌱 I’m currently learning Scala and Angular
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 Contact me at odalatber@gmail.com
